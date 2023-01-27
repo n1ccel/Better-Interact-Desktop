@@ -42,8 +42,8 @@ using Misatyan;
 [assembly: MelonPlatformDomain(MelonPlatformDomainAttribute.CompatibleDomains.MONO)]
 
 internal static class ModInfo {
-  public const string Name = "MisaEffector mod";
-  public const string Author = "Misatyan, SDRaw";
+  public const string Name = "Better Interact Desktop";
+  public const string Author = "Misatyan";
   public const string Version = "0.1.1";
   public const string Download = "";
 }
