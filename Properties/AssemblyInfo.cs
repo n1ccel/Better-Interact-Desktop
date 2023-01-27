@@ -40,7 +40,7 @@ using Misatyan;
 [assembly: MelonInfo(typeof(Misa), ModInfo.Name, ModInfo.Version, ModInfo.Author, ModInfo.Download)]
 [assembly: MelonGame("Alpha Blend Interactive", "ChilloutVR")]
 [assembly: MelonPlatformDomain(MelonPlatformDomainAttribute.CompatibleDomains.MONO)]
-
+//
 internal static class ModInfo {
   public const string Name = "Better Interact Desktop";
   public const string Author = "Misatyan";
