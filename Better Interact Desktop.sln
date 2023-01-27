@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisaEFFECTOR", "MisaEFFECTOR.csproj", "{E4B5F0FB-E879-41C7-AB66-5BD0552D9D9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Better Interact Desktop", "Better Interact Desktop.csproj", "{E4B5F0FB-E879-41C7-AB66-5BD0552D9D9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -60,18 +60,11 @@ namespace Misatyan
             }
         }
 
-        public override void OnUpdate()
-        {
-            //Riticle On|Off by SDraw
-            ReticleSwitch.TurnOff();
-        }
 
         //Swap shit CVR's riticle to good red point
         [Obsolete]
         public override void OnApplicationStart()
         {
-            MelonCoroutines.Start(ReticleSwitch.WaitForMenu());
-            //MelonCoroutines.Start(MainGUI.WaitForMenu());
             Instance = this;
         }
     }
